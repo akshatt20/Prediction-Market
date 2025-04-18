@@ -33,7 +33,7 @@ PredictX is a cutting-edge prediction market platform focused exclusively on cry
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/DevAggarwal03/predicitonMarket
+git clone https://github.com/akshatt20/Prediction-Market.git
 cd predicitonMarket
 ```
 
@@ -87,18 +87,9 @@ Readme.md
 - `npm run lint` - Run ESLint
 
 ## Smart Contracts
-Our prediction market smart contracts are deployed on:
-- Sei Testnet: `0x89ebF2A7546eBD9407fb878821689f56612b4EFd`
+Our prediction market smart contracts are deployed on: Sei Testnet
 
 ## Links
 - Live Link: [https://predicitonmarket.onrender.com](https://predicitonmarket.onrender.com)
-- Video Link: [https://youtu.be/37RwFLxlkpM](https://youtu.be/37RwFLxlkpM)
-- Github Link: [https://github.com/DevAggarwal03/predicitonMarket](https://github.com/DevAggarwal03/predicitonMarket)
+- Github Link: [https://github.com/akshatt20/Prediction-Market.git](https://github.com/DevAggarwal03/predicitonMarket)
 
-## Resources
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [CoinGecko](https://coingecko.com/)
-- [ethers.js](https://docs.ethers.org/)
-- [Hardhat](https://hardhat.org/hardhat-runner/docs/getting-started)
